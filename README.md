@@ -25,7 +25,7 @@ Intro Slider merupakan tampilan beberapa slide yang bisa di geser oleh user sebe
 Pada Intro slider biasanya memiliki navigasi skip dan next. User juga dapat menavigasi melalui setiap slide menggunakan gerakan mengusap layar HP atau menggunakan tombol next.
 
 # Penerapan Intro Slider
-Halaman pertaman
+Halaman pertama
 
 ![WhatsApp Image 2021-03-19 at 21 26 24](https://user-images.githubusercontent.com/60589822/111801307-68ba2600-88ff-11eb-9167-28629b0ad103.jpeg)
 
