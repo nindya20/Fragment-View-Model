@@ -19,10 +19,29 @@ Berikut beberapa poin penting tentang fragment yang perlu untuk kita ketahui, ya
 
 - Fragment dapat berperilaku seperti activity dalam hal stack. Yaitu dengan penggunaan back stack pada fragment. Fragment baru akan ditambahkan ke stack. Jika kita menekan tombol back, maka akan kembali ke stack fragment yang ditambahkan sebelumnya.
 
-# Into Slider
+# Intro Slider
 Intro Slider merupakan tampilan beberapa slide yang bisa di geser oleh user sebelum masuk ke menu utama pada sebuah aplikasi atau dengan nama lain Layar Perkenalan Aplikasi.
 
 Pada Intro slider biasanya memiliki navigasi skip dan next. User juga dapat menavigasi melalui setiap slide menggunakan gerakan mengusap layar HP atau menggunakan tombol next.
 
-# Berikut Contoh Penerapannya
+# Penerapan Intro Slider
+Halaman pertaman
 
+![WhatsApp Image 2021-03-19 at 21 26 24](https://user-images.githubusercontent.com/60589822/111801307-68ba2600-88ff-11eb-9167-28629b0ad103.jpeg)
+
+Halaman kedua
+
+![WhatsApp Image 2021-03-19 at 21 26 24 (1)](https://user-images.githubusercontent.com/60589822/111801318-6bb51680-88ff-11eb-9d12-405e7c8cc69f.jpeg)
+
+Halaman ketiga
+
+![WhatsApp Image 2021-03-19 at 21 26 25](https://user-images.githubusercontent.com/60589822/111801273-5fc95480-88ff-11eb-9572-730aceb83f8b.jpeg)
+
+Halaman Keempat
+
+
+![WhatsApp Image 2021-03-19 at 21 26 25 (1)](https://user-images.githubusercontent.com/60589822/111801283-62c44500-88ff-11eb-8c3b-24641ef9df2f.jpeg)
+
+# Penerapan Fragment Setelah Masuk Aplikasi
+![WhatsApp Image 2021-03-19 at 21 26 22](https://user-images.githubusercontent.com/60589822/111801286-65269f00-88ff-11eb-8bcb-b11ce3092cbd.jpeg)
+![WhatsApp Image 2021-03-19 at 21 26 23](https://user-images.githubusercontent.com/60589822/111801301-6788f900-88ff-11eb-8e33-9967342e4c76.jpeg)
