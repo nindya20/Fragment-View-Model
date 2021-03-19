@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travelling yuk!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Tab1</string>
+    <string name="tab_text_2">Tab2</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hallo Pecinta Liburan!</string>
+    <string name="slide_1_desc">Sesuatu yang menarik telah menunggu kalian para pecinta liburan, geser terus slide nya yaaa!</string>
+
+    <string name="slide_2_title">Liburan Menyenangkan</string>
+    <string name="slide_2_desc">Kepuasan anda adalah jaminan kami!</string>
+
+    <string name="slide_3_title">Penawaran Menarik!</string>
+    <string name="slide_3_desc">Liburan dengan biaya murah? kapan lagi?</string>
+
+    <string name="slide_4_title">Segera Daftar</string>
+    <string name="slide_4_desc">Jangan sampai ketinggalan penawaran menarik ini yaaa :)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
